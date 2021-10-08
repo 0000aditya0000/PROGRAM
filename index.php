@@ -1,4 +1,4 @@
-<HTML>
+<html>
   <head>
     <title>Hacktoberfest 2021</title>
   </head>
