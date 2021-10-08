@@ -5,7 +5,7 @@
   <body>
     <form action = 'post.php' method = 'POST'>
       <input type = 'text' placeholder='Enter your name' required />
-      <input type = 'submit' placholder='Submit' />
+      <input type = 'submit' placeholder='Submit' />
     </form>
   </body>
 </html>
